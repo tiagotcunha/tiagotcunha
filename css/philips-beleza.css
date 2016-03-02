@@ -1,7 +1,7 @@
 .version.philips_beleza /* version checker */
 {
-	color: #000001;
-	background-color: #BB90F2;
+	color: #0000E1;
+	background-color: #E6A5D0;
 }
 
 .html
@@ -97,6 +97,11 @@
 	margin-right: -10000px;
 }
 
+#u1829_img
+{
+	padding-bottom: 36px;
+}
+
 #u1182
 {
 	z-index: 2;
@@ -126,11 +131,6 @@
 {
 	font-size: 30px;
 	line-height: 36px;
-}
-
-#u1835-7
-{
-	text-decoration: none;
 }
 
 #u977

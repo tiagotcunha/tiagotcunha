@@ -1,7 +1,7 @@
-.version.m_ms_natal /* version checker */
+.version.philips_casa /* version checker */
 {
-	color: #000019;
-	background-color: #9E79BB;
+	color: #000013;
+	background-color: #CD1607;
 }
 
 .html
@@ -82,57 +82,52 @@
 	margin-left: 366px;
 }
 
-#pu1182
+#pu1857
 {
 	width: 0.01px;
 	margin-left: 84px;
 }
 
-#u1182
-{
-	z-index: 2;
-	width: 523px;
-	padding-bottom: 304px;
-	margin-right: -10000px;
-	left: 653px;
-}
-
-#u1196-4
-{
-	z-index: 3;
-	margin-right: -10000px;
-	margin-top: 32px;
-	left: 36px;
-}
-
-#u1817
+#u1857
 {
 	z-index: 7;
-	width: 904px;
+	width: 550px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1817_img
+#u1857_img
 {
-	padding-right: 383px;
+	padding-bottom: 13px;
 }
 
-#u1815-11
+#u1182
+{
+	z-index: 2;
+	width: 437px;
+	margin-right: -10000px;
+	left: 653px;
+	padding: 32px 50px 21.000000000000057px 36px;
+}
+
+#u1196-4
+{
+	z-index: 3;
+}
+
+#u1863-11
 {
 	z-index: 34;
 	width: 411px;
 	min-height: 279px;
 	background-color: transparent;
 	color: #C4B8A7;
+	margin-top: 4px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 90px;
-	left: 689px;
 }
 
-#u1815-2,#u1815-3
+#u1863-2
 {
 	font-size: 30px;
 	line-height: 36px;
@@ -144,7 +139,7 @@
 	width: 974px;
 	height: 2px;
 	margin-left: 161px;
-	margin-top: 401px;
+	margin-top: 519px;
 }
 
 .ie #u977

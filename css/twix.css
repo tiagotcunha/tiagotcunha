@@ -1,7 +1,7 @@
 .version.twix /* version checker */
 {
-	color: #00001B;
-	background-color: #52E1B4;
+	color: #0000F8;
+	background-color: #A72AC6;
 }
 
 .html
@@ -95,6 +95,11 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u1843_img
+{
+	padding-right: 5px;
 }
 
 #u1182

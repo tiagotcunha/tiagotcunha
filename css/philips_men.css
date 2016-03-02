@@ -1,7 +1,7 @@
 .version.philips_men /* version checker */
 {
-	color: #00001F;
-	background-color: #DAA0FB;
+	color: #0000EA;
+	background-color: #186715;
 }
 
 .html
@@ -95,6 +95,11 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u1804_img
+{
+	padding-bottom: 23px;
 }
 
 #u1182
