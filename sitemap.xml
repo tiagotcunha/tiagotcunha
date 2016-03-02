@@ -223,8 +223,44 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/images/web_mms.jpg</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/images/web_philips.jpg</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/images/web_philips_men.jpg</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/images/web_rekit.jpg</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/images/web_twix.jpg</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/images/web_philips_woman.jpg</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://tiagocunhaportefolio.businesscatalyst.com/index.html</loc>
-    <lastmod>2015-09-08</lastmod>
+    <lastmod>2016-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -339,6 +375,18 @@
   <url>
     <loc>http://tiagocunhaportefolio.businesscatalyst.com/alcofa_storage.html</loc>
     <lastmod>2015-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/philips_men.html</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/m-ms_natal.html</loc>
+    <lastmod>2016-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

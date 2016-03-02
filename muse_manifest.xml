@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://tiagocunhaportefolio.businesscatalyst.com" resolutions="1x" timestamp="1456929982185">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://tiagocunhaportefolio.businesscatalyst.com" resolutions="1x" timestamp="1456937821535">
   <folder name="css">
     <file name="site_global.css" crc="3995552850"/>
     <file name="master_3d.css" crc="188727067" ref="intro-champions:bola-de-pelo:museu-da-cidade:splines:build"/>
     <file name="master_a-master.css" crc="531622297" ref="index"/>
     <file name="master_video.css" crc="4091122497" ref="train:noticiario:butterfly:open-hapiness:porquê-a-epi_:guiness:reactions-and-movements"/>
-    <file name="master_web.css" crc="505534275" ref="jummy:app-tabela-periodica:alcofa_storage:cores-de-lisboa:acrooss:comenius:projeto-gdi"/>
+    <file name="master_web.css" crc="505534275" ref="jummy:app-tabela-periodica:alcofa_storage:cores-de-lisboa:acrooss:comenius:projeto-gdi:m-ms_natal:philips_men"/>
     <file name="jummy.css" crc="244241433" ref="jummy"/>
     <file name="train.css" crc="237070773" ref="train"/>
     <file name="intro-champions.css" crc="57712508" ref="intro-champions"/>
-    <file name="index.css" crc="127223463" ref="index"/>
+    <file name="index.css" crc="141301921" ref="index"/>
     <file name="noticiario.css" crc="146090314" ref="noticiario"/>
     <file name="bola-de-pelo.css" crc="4121852853" ref="bola-de-pelo"/>
     <file name="butterfly.css" crc="214399149" ref="butterfly"/>
@@ -25,6 +25,8 @@
     <file name="projeto-gdi.css" crc="3941396443" ref="projeto-gdi"/>
     <file name="reactions-and-movements.css" crc="4137043275" ref="reactions-and-movements"/>
     <file name="build.css" crc="3776810336" ref="build"/>
+    <file name="m-ms_natal.css" crc="376665375" ref="m-ms_natal"/>
+    <file name="philips_men.css" crc="534421755" ref="philips_men"/>
   </folder>
   <folder name="assets">
     <folder name="novo_graph">
@@ -48,15 +50,15 @@
     <file name="europass-cv-20141225-cunha-pt.pdf" crc="4246739754" seo="true" mt="1419524710000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="museutils.js" crc="183364071" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="webpro.js" crc="3803554875" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="form_check.php" crc="277267350" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="form_throttle.php" crc="3908387251" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="form_process.php" crc="24249335" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="museutils.js" crc="183364071" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="webpro.js" crc="3803554875" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="form_check.php" crc="277267350" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="form_process.php" crc="24249335" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
     <file name="form-u896.php" crc="139744865" ref="index"/>
-    <file name="form-u956.php" crc="529864525" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
+    <file name="form-u956.php" crc="529864525" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
     <file name="form-u1031.php" crc="429311949" ref="bola-de-pelo:intro-champions:build:splines:museu-da-cidade"/>
     <file name="form-u1083.php" crc="146458429" ref="guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements"/>
   </folder>
@@ -92,31 +94,31 @@
     <file name="design_4.jpg" crc="3900903066" seo="true" ref="index"/>
     <file name="design_1.jpg" crc="4275389433" seo="true" ref="index"/>
     <file name="design_2.jpg" crc="3770050169" seo="true" ref="index"/>
-    <file name="top.png" crc="4290859431" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="youtube.png" crc="426873332" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="behance.png" crc="389608336" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="driblr.png" crc="4112471561" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="facebook.png" crc="120621493" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="in.png" crc="232582807" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="vimeo.png" crc="192224273" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
+    <file name="top.png" crc="4290859431" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="youtube.png" crc="426873332" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="behance.png" crc="389608336" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="driblr.png" crc="4112471561" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="facebook.png" crc="120621493" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="in.png" crc="232582807" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="vimeo.png" crc="192224273" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
     <file name="u348-4.png" crc="4233164393" ref="index"/>
     <file name="u908-17.png" crc="156217076" ref="index"/>
     <file name="u908-17-r.png" crc="128277010" ref="index"/>
     <file name="u908-17-m.png" crc="115724949" ref="index"/>
     <file name="u908-17-fs.png" crc="6673696" ref="index"/>
-    <file name="flat-document-type-icons-psd.png" crc="4263516779" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage"/>
-    <file name="web-favicon.ico" crc="4254009854" ref="jummy"/>
-    <file name="u991-6.png" crc="61191572" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u988-4.png" crc="283895120" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u987-4.png" crc="4215724154" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u986-4.png" crc="3765570583" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u985-4.png" crc="281795932" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u1196-4.png" crc="402038745" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u952-4.png" crc="4233164393" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u961-17.png" crc="156217076" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u961-17-r.png" crc="128277010" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u961-17-m.png" crc="115724949" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
-    <file name="u961-17-fs.png" crc="6673696" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage"/>
+    <file name="flat-document-type-icons-psd.png" crc="4263516779" seo="true" ref="index:jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:bola-de-pelo:intro-champions:build:splines:guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements:museu-da-cidade:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="web-favicon.ico" crc="4254009854" ref="jummy:philips_men"/>
+    <file name="u991-6.png" crc="61191572" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u988-4.png" crc="283895120" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u987-4.png" crc="4215724154" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u986-4.png" crc="3765570583" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u985-4.png" crc="281795932" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u1196-4.png" crc="402038745" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u952-4.png" crc="4233164393" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u961-17.png" crc="156217076" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u961-17-r.png" crc="128277010" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u961-17-m.png" crc="115724949" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
+    <file name="u961-17-fs.png" crc="6673696" ref="jummy:projeto-gdi:comenius:cores-de-lisboa:app-tabela-periodica:acrooss:alcofa_storage:philips_men:m-ms_natal"/>
     <file name="cores de lisboa.jpg" crc="3831794723" seo="true" ref="cores-de-lisboa"/>
     <file name="3d-favicon.ico" crc="4254009854" ref="bola-de-pelo"/>
     <file name="u1003-6.png" crc="61191572" ref="bola-de-pelo:intro-champions:build:splines:museu-da-cidade"/>
@@ -143,9 +145,15 @@
     <file name="u1084-17-r.png" crc="128277010" ref="guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements"/>
     <file name="u1084-17-m.png" crc="115724949" ref="guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements"/>
     <file name="u1084-17-fs.png" crc="6673696" ref="guiness:butterfly:porquê-a-epi_:open-hapiness:noticiario:train:reactions-and-movements"/>
-    <file name="acroos.png" crc="327541269" seo="true" ref="acrooss"/>
+    <file name="acroos.png" crc="327541269" seo="true" ref="acrooss:philips_men:m-ms_natal"/>
+    <file name="web_mms.jpg" crc="3952148476" seo="true" ref="index"/>
+    <file name="web_philips.jpg" crc="3760202593" seo="true" ref="index"/>
+    <file name="web_philips_men.jpg" crc="4138320035" seo="true" ref="index"/>
+    <file name="web_rekit.jpg" crc="76183389" seo="true" ref="index"/>
+    <file name="web_twix.jpg" crc="4049602818" seo="true" ref="index"/>
+    <file name="web_philips_woman.jpg" crc="3894140626" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3817875846" seo="true" mt="1441744910793" redirect="true"/>
+  <file name="index.html" crc="104755237" seo="true" mt="1456937044287" redirect="true"/>
   <file name="jummy.html" crc="4129642627" seo="true" mt="1441742882093" redirect="true"/>
   <file name="projeto-gdi.html" crc="4188151920" seo="true" mt="1441742887334" redirect="true"/>
   <file name="comenius.html" crc="4077710649" seo="true" mt="1441742890806" redirect="true"/>
@@ -165,4 +173,6 @@
   <file name="museu-da-cidade.html" crc="392173157" seo="true" mt="1441742579311" redirect="true"/>
   <file name="acrooss.html" crc="395916571" seo="true" mt="1441742579279" redirect="true"/>
   <file name="alcofa_storage.html" crc="528587666" seo="true" mt="1441744498499" redirect="true"/>
+  <file name="philips_men.html" crc="4123620862" seo="true" mt="1456937010200" redirect="true"/>
+  <file name="m-ms_natal.html" crc="333736486" seo="true" mt="1456936958819" redirect="true"/>
 </manifest>
