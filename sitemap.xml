@@ -390,4 +390,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/philips-beleza.html</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tiagocunhaportefolio.businesscatalyst.com/twix.html</loc>
+    <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
